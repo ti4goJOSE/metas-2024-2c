@@ -5,6 +5,6 @@ h1{
   color: firebrick;
 }
 body{
- background-color: azure;
+  background: linear-gradient(red,blue);
  font-family: Oswald;
 }
