@@ -7,11 +7,4 @@ h1{
 body{
   background: linear-gradient(red,blue);
  font-family: Oswald;
-
- h1{
-  font-size: 55px;
-}
-
-h2{
-  font-size: 44px;
 }
