@@ -1,4 +1,19 @@
-body{
-    background:linear-gradient(red,black) ;
-    font-family: 'Times New Roman', Times, serif;
+
+h1{
+  color: #3700ff;
+  font-size: 50px;
+  font-family: Fjalla One;
+}
+
+h2{
+  color: #00ffff;
+  font-size: 42px;
+}
+
+h3{
+  font-size: 35px;
+}
+
+h4{
+  font-size: 30px;
 }
