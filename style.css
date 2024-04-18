@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
 
 body {
-    background: radial-gradient(#ff0000, #00ffea, #0000009c, white);
+    background: radial-gradient(#00ffff, #00ffea, #0000009c, rgb(0, 247, 255));
     font-family: Oswald;
 }
 
